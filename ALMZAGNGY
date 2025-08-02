@@ -1,16 +1,16 @@
-[
-  {
-    "id": "b70d91e8f08a1185",
-    "username": "ALMZAGNGY",
-    "password": "ALMZAGNGY",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "b70d91e8f08a1185",
-    "username": "ALMZAGNGY",
-    "password": "ALMZAGNGY",
-    "expiresAt": "2025-11-30",
-    "allowOffline": true
-  }
-]
+{
+  "showDialog": true,
+  "appVersionCode": 1,
+  "messageText": "تم إطلاق تحديث جديد للنسخه المهكره",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://google.com",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "إلغاء",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
+}
