@@ -1,0 +1,18 @@
+{{
+  "showDialog": true,
+  "appVersionCode": 300,
+  "messageText": "اتم ايقاف النسخه من المطور مزاجنجي بسبب سرقتها",
+  "updateButtonText": "راسل المطور",
+  "updateButtonLink": "https://wa.me/201202230265",
+  "updateButtonGradientStartColor": "#FFD700",
+  "updateButtonGradientEndColor": "#FFA500",
+  "cancelButtonText": "خروج",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#FF4E50",
+  "cancelButtonGradientEndColor": "#F9D423",
+  "textGradientStartColor": "#FF0000",
+  "textGradientEndColor": "#FFFFFF",
+  "textGradientAnimationColors": ["#FF0000", "#FFFFFF", "#FFFF00", "#8B4513"],
+  "textGradientAnimationSpeedMs": 800,
+  "dialogBackgroundColor": "#FFFFFF"
+}
