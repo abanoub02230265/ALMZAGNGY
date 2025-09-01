@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 4005,
-  "messageText": "اتم ايقاف النسخه من المطور مزاجنجي بسبب سرقتها",
+  "messageText": "تم ايقاف النسخه من المطور مزاجنجي بسبب سرقتها",
   "updateButtonText": "راسل المطور",
   "updateButtonLink": "https://wa.me/201202230265",
   "updateButtonGradientStartColor": "#FFD700",
